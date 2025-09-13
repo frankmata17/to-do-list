@@ -4,7 +4,7 @@
 
 # I wanted to gain more experience with JavaScript fundamentals like arrays, functions, DOM manipulation, event handling, and external libraries.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-r90XNzo75M)
 
 # Development Environment
 - Visual Studio Code
